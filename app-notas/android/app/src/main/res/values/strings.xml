@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">appNotas</string>
+    <string name="title_activity_main">appNotas</string>
+    <string name="package_name">com.tuempresa.appnotas</string>
+    <string name="custom_url_scheme">com.tuempresa.appnotas</string>
+</resources>
